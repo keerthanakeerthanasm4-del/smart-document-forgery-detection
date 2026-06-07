@@ -1,0 +1,21 @@
+.result-page{
+  min-height:100vh;
+  background:black;
+  color:white;
+  text-align:center;
+  padding-top:40px;
+}
+
+.result-box{
+  width:600px;
+  margin:40px auto;
+  padding:30px;
+  border:3px solid lime;
+  border-radius:20px;
+  box-shadow:0 0 20px lime;
+}
+
+.tick{
+  font-size:100px;
+  color:lime;
+}
